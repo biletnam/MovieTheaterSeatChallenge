@@ -16,6 +16,7 @@ else {
 })
 })
 
+
 // innerHTML to put button HTML onto page
 // ************* original button probably needs to go away 
 
@@ -40,3 +41,8 @@ else {
 // 		</div>
 // 	</form>
 // </div>
+
+document.getElementsByClassName("row")[0].addEventListener("click", function(){
+	console.log("success");
+});
+
