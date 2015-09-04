@@ -1,0 +1,23 @@
+body{
+	background-color: orange;
+}
+
+header{
+	text-align: center;
+	font-size: 5em;
+	font-family: Century Gothic;
+}
+.col-xs-3 p {
+	text-align: center;
+	margin-top: 5em;
+}
+
+.col-xs-3 {
+	border: 1em solid black;
+	height: 20em;
+}
+
+.container {
+	float: none;
+	margin: 0 auto;
+}
