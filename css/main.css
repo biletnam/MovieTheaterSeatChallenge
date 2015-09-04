@@ -1,11 +1,39 @@
-body{
-	background-color: orange;
+.background {
+	background: black;
+}
+
+#green{
+color: green;
+}
+#red{
+	color: red;
+}
+
+.col-xs-12 {
+	height: 4em;
+	border: .3em dotted #9D3FBF;
+	background-color: black;
+	color: white;
+	font-size: 2em;
+	text-align: center;
+}
+img {
+	width: 100%;
+	height: 20em;
+
+}
+.header{
+	width: 70%:;
 }
 
 header{
+	width: 100%;
+	border: .1em dotted #9D3FBF;
 	text-align: center;
 	font-size: 5em;
 	font-family: Century Gothic;
+	background-color: black;
+	color: white;
 }
 .col-xs-3 p {
 	text-align: center;
