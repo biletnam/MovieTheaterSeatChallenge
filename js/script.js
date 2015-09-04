@@ -15,3 +15,6 @@ else {
 }
 })
 })
+document.getElementsByClassName("row")[0].addEventListener("click", function(){
+	console.log("success");
+});
